@@ -246,7 +246,7 @@ footer {
 	padding-bottom:4rem;
 	color: #515151; 
 }
-/*@media all and (max-width:768px) {
+@media all and (max-width:768px) {
 html {
 	font-size: .5rem;
 }
@@ -256,4 +256,4 @@ html {
 .img-1 {
 	height:10rem;
 }
-}*/
+}
